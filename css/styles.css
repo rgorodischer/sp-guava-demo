@@ -381,6 +381,12 @@ a:hover {
     padding: 0;
 }
 
+.presentation-title {
+    position: absolute;
+	top: -300px;
+    left: 150px;
+}
+
 /* on overview step everything is visible */
 
 #impress.step-overview .step {
